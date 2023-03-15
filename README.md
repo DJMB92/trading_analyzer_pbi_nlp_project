@@ -1,4 +1,4 @@
-## Trading Analyzer - Selenium, NLP-Vader & Powered Amazon Stock Sentiment Analyzer.
+## Trading Analyzer - Selenium, NLP-Vader & PBI Powered Amazon Stock Sentiment Analyzer.
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzVlMTI2ZWYtNDgxNC00ZDhiLWJmMGYtNWI2ZjJhYTE4Y2NmIiwidCI6ImFlMjMzMjNhLTFiMzktNGRjZi1hOTE5LWIzZDE2OTZmNWEwMyIsImMiOjJ9">	
