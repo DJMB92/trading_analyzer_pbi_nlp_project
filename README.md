@@ -27,5 +27,5 @@ My objective was to compare the price before and after the article was released 
 - Power BI Deployment: Showcase if I would be able to make any profit by only using fundamental analysis based on the news articles.
 
 ### More About Me...
-Find me on [LinkedIn](https://www.linkedin.com/in/danieljmendezb/
+Find me on [LinkedIn](https://www.linkedin.com/in/danieljmendezb/)
 
